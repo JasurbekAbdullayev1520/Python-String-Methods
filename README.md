@@ -259,7 +259,7 @@
 
 ### ✅ Task25 – Tozalangan foydalanuvchi ismi (Telegram botlardan ilhom)
 
-**Foydalanuvchi yuborgan ismni bo‘sh joylardan tozalang va bosh harf bilan boshlansin**
+**F
 
 | Input         | Output   |
 | ------------- | -------- |
