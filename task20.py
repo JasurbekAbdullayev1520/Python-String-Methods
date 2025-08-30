@@ -1,7 +1,10 @@
-matn=input('Matn kiriting: ')
+matn = input("Matn kiriting: ")
 
-if 'python' in matn.lower():
-    print('True')
-
+if matn != "":                 
+    if matn[0].isupper():      
+        print(True)
+    else:
+        print(False)
 else:
-    print('False')
+    print(False)
+
